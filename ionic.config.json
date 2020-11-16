@@ -1,0 +1,8 @@
+{
+  "name": "my helper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "9804f192"
+}
